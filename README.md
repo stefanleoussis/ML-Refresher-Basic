@@ -1,2 +1,2 @@
 # ML-Refresher-Basic
-A 60-minute Machine Learning refresher notebook on Basic ML concepts
+A 60-minute Machine Learning refresher notebook on Basic ML concepts (with examples)
