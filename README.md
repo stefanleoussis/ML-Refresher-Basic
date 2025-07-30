@@ -3,8 +3,8 @@ A 60-minute Machine Learning refresher notebook on Basic ML concepts (with examp
 
 
 
-TODO:
-  [ ] Add Terminology List
-  [ ] Setup Guide
-  [ ] Notebook
+TODO: \
+[ ] Add Terminology List \
+[ ] Setup Guide \
+[ ] Notebook
   
